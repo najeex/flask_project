@@ -1,0 +1,1 @@
+HELLO = 'verbum tu master'
